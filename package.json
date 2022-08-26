@@ -1,0 +1,34 @@
+{
+  "name": "react-native-getui-latest",
+  "title": "React Native Getui Latest",
+  "version": "1.0.9",
+  "description": "RN版Getui sdk",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "android",
+    "index.js",
+    "ios",
+    "react-native-getui-latest.podspec"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github_account/react-native-getui-latest.git",
+    "baseUrl": "https://github.com/github_account/react-native-getui-latest"
+  },
+  "keywords": [
+    "react-native",
+    "getui-sdk"
+  ],
+  "author": {
+    "name": "Meyun",
+    "email": "wks19921023@163.com"
+  },
+  "license": "ISC",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": ">=16.8.1",
+    "react-native": ">=0.50.0-rc.0 <1.0.x"
+  }
+}
