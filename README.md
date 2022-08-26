@@ -206,13 +206,13 @@ ios端支持厂商推送(需要在App Store配置好推送证书)及个推推送
 
 打开工程，将GTSDK导入，详见下图所示:
 
-![](./2.png)
+![](https://github.com/tryAndDoForEnjoy/react-native-getui-latest/blob/main/2.png)
 
 
 点击<font color="red">add</font>
 
 
-![](./1.png)
+![](https://github.com/tryAndDoForEnjoy/react-native-getui-latest/blob/main/1.png)
 
 
 
@@ -222,7 +222,7 @@ ios端支持厂商推送(需要在App Store配置好推送证书)及个推推送
 
 
 
-![](./3.png)
+![](https://github.com/tryAndDoForEnjoy/react-native-getui-latest/blob/main/3.png)
 
 
 
@@ -254,7 +254,7 @@ notifications. 详见下图所示：
 
 
 
-![](./4.png)
+![](https://github.com/tryAndDoForEnjoy/react-native-getui-latest/blob/main/4.png)
 
 
 
