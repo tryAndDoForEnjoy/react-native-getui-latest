@@ -1,7 +1,7 @@
 {
   "name": "react-native-getui-latest",
   "title": "React Native Getui Latest",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "RN版Getui sdk",
   "main": "index.js",
   "files": [
@@ -13,8 +13,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-getui-latest.git",
-    "baseUrl": "https://github.com/github_account/react-native-getui-latest"
+    "url": "git+https://github.com/tryAndDoForEnjoy/react-native-getui-latest.git",
+    "baseUrl": "https://github.com/tryAndDoForEnjoy/react-native-getui-latest.git"
   },
   "keywords": [
     "react-native",
