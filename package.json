@@ -1,7 +1,7 @@
 {
   "name": "react-native-getui-latest",
   "title": "React Native Getui Latest",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "RN版Getui sdk",
   "main": "index.js",
   "files": [

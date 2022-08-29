@@ -8,7 +8,7 @@
 #import "RNGetuiPush.h"
 
 @interface BridgeQueue : NSObject
-333
+
 @property BOOL jsDidLoad;
 @property NSDictionary* openedRemoteNotification;
 @property NSDictionary* openedLocalNotification;
